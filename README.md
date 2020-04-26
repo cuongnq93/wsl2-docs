@@ -40,7 +40,10 @@ sudo apt-get install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 # Installing missing Powerline Fonts
 git clone https://github.com/powerline/fonts.git
-# Run with Power Shell
+# Run with Power Shell (Administrator)
+# Set Policy
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+cd fonts
 .\install.ps1
 ```
 
