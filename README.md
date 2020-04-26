@@ -1,4 +1,4 @@
-# Docker on Windwos use WSL2
+# Docker on Windows use WSL2
 
 ### Requirements
 ```
