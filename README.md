@@ -43,3 +43,7 @@ git clone https://github.com/powerline/fonts.git
 # Run with Power Shell
 .\install.ps1
 ```
+
+### Install Docker Desktop WSL 2 backend
+Download: https://download.docker.com/win/edge/Docker%20Desktop%20Installer.exe
+Docs: https://docs.docker.com/docker-for-windows/wsl-tech-preview/
